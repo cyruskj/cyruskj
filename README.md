@@ -1,16 +1,18 @@
-## Hi there 👋
+# Cyrus
 
-<!--
-**cyruskj/cyruskj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student | Enterprise Software Emphasis
 
-Here are some ideas to get you started:
+Building systems with a focus on structure, performance, and clarity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- Operating Systems projects (process scheduling, memory management)
+- Full-stack web applications
+- C++ data structures and algorithms
+- Portfolio development
+
+Currently improving:
+- System-level understanding
+- Production-ready project structure
+- Performance optimization
+
+Documenting my growth as a software engineering
