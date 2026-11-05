@@ -1,15 +1,7 @@
-# 💻 cyruskj
+<div align="center">
+  <img src="assets/banner.png" alt="CJ — cyruskj profile banner" width="100%" />
+</div>
 
-CS Student | Enterprise Software Emphasis
+CS graduate interested in AI, simulations, automation, and cybersecurity.
 
-Building systems with a focus on structure, performance, and clarity.
-
-Currently working on:
-- Operating Systems projects (process scheduling, memory management)
-- Full-stack web applications
-- Exploring web security (authentication, common vulnerabilities)
-
-Currently improving:
-- System-level understanding
-- Production-ready project structure
-- Performance optimization
+I like building things, experimenting with different ideas, and getting caught up in the little details. What I work on next usually depends on whatever catches my interest.
